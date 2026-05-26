@@ -1,0 +1,6 @@
+flask
+requests
+schedule
+playwright
+pandas
+beautifulsoup4
